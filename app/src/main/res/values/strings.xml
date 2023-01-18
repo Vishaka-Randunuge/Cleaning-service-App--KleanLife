@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Klean Life</string>
+    <string-array name="questions">
+
+        <item>What is the city you were born?</item>
+        <item>What is the name of your pet?</item>
+        <item>What is your favourite book?</item>
+    </string-array>
+    <string-array name="floors">
+        <item>Marble Floor</item>
+        <item>Tile</item>
+        <item>Concrete Floor</item>
+        <item>Wooden Floor</item>
+    </string-array>
+</resources>
